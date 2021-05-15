@@ -1,0 +1,16 @@
+C:\Users\Clown\Files\Programs\ConsoleCheckmate\bin\Debug\net5.0\ConsoleCheckmate.exe
+C:\Users\Clown\Files\Programs\ConsoleCheckmate\bin\Debug\net5.0\ConsoleCheckmate.deps.json
+C:\Users\Clown\Files\Programs\ConsoleCheckmate\bin\Debug\net5.0\ConsoleCheckmate.runtimeconfig.json
+C:\Users\Clown\Files\Programs\ConsoleCheckmate\bin\Debug\net5.0\ConsoleCheckmate.runtimeconfig.dev.json
+C:\Users\Clown\Files\Programs\ConsoleCheckmate\bin\Debug\net5.0\ConsoleCheckmate.dll
+C:\Users\Clown\Files\Programs\ConsoleCheckmate\bin\Debug\net5.0\ref\ConsoleCheckmate.dll
+C:\Users\Clown\Files\Programs\ConsoleCheckmate\bin\Debug\net5.0\ConsoleCheckmate.pdb
+C:\Users\Clown\Files\Programs\ConsoleCheckmate\obj\Debug\net5.0\ConsoleCheckmate.csprojAssemblyReference.cache
+C:\Users\Clown\Files\Programs\ConsoleCheckmate\obj\Debug\net5.0\ConsoleCheckmate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Clown\Files\Programs\ConsoleCheckmate\obj\Debug\net5.0\ConsoleCheckmate.AssemblyInfoInputs.cache
+C:\Users\Clown\Files\Programs\ConsoleCheckmate\obj\Debug\net5.0\ConsoleCheckmate.AssemblyInfo.cs
+C:\Users\Clown\Files\Programs\ConsoleCheckmate\obj\Debug\net5.0\ConsoleCheckmate.csproj.CoreCompileInputs.cache
+C:\Users\Clown\Files\Programs\ConsoleCheckmate\obj\Debug\net5.0\ConsoleCheckmate.dll
+C:\Users\Clown\Files\Programs\ConsoleCheckmate\obj\Debug\net5.0\ref\ConsoleCheckmate.dll
+C:\Users\Clown\Files\Programs\ConsoleCheckmate\obj\Debug\net5.0\ConsoleCheckmate.pdb
+C:\Users\Clown\Files\Programs\ConsoleCheckmate\obj\Debug\net5.0\ConsoleCheckmate.genruntimeconfig.cache
